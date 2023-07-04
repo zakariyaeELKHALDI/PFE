@@ -1,6 +1,6 @@
 # OCR System - End of Study Internship Project
 
-This repository contains the code and report of the Optical Character Recognition (OCR) system I developed during my end of study internship project. The OCR system was custom-made for a specific type of documents used by the startup I interned at. Due to confidentiality reasons, I have presented the outputs without the actual documents used.I will make other documents to replace the outputs as well since they contain confidential information as well.
+This repository contains the code and report of the Optical Character Recognition (OCR) system I developed during my end of study internship project. The OCR system was custom-made for a specific type of documents used by the startup I interned at. Due to confidentiality reasons, I have presented the outputs without the actual documents used. I will make other documents for the demo, to replace the outputs as well since they contain confidential information too.
 
 ## Repository Contents
 
