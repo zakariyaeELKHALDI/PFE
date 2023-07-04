@@ -8,7 +8,7 @@ This repository contains the code and report of the Optical Character Recognitio
 
 2. `tesseract_trial.ipynb`: This Jupyter notebook contains the code used to test the Tesseract solution implemented with the Img2table library for table extraction. It was part of a comparative study between AWS Textract and Tesseract.
 
-3. `internship_project_report.docx`: This Word document is the final report of my end of study internship project. It contains the entire workflow of the project, including the steps I followed and the coding process I underwent to achieve the final solution. It needs further modifications concerning some elements of its structure, the final verison would be uploaded once it's ready.
+3. `Report-PFE-FinalVersion_ZakariyaeELKHALDI.docx`: This Word document is the final report of my end of study internship project. It contains the entire workflow of the project, including the steps I followed and the coding process I underwent to achieve the final solution. It needs further modifications concerning some elements of its structure, the final verison would be uploaded once it's ready.
 
 ## Technology Stack
 
