@@ -4,7 +4,7 @@ This repository contains the code and report of the Optical Character Recognitio
 
 ## Repository Contents
 
-1. `final_OCRsystem_code.ipynb`: This Jupyter notebook contains the main and final code of the OCR system developed using AWS Textract.
+1. `final_OCRsystem_code.ipynb`: This Jupyter notebook contains the main and part of the final code of the OCR system developed using AWS Textract (What is permitted to be shared publically).
 
 2. `tesseract_trial.ipynb`: This Jupyter notebook contains the code used to test the Tesseract solution implemented with the Img2table library for table extraction. It was part of a comparative study between AWS Textract and Tesseract.
 
